@@ -1,0 +1,20 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Visswateza/New.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Visswateza/New/issues"
+  },
+  "homepage": "https://github.com/Visswateza/New#readme"
+}
