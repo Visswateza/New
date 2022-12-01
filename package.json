@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev" : "node app.js"
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Visswateza/New/issues"
   },
-  "homepage": "https://github.com/Visswateza/New#readme"
+  "homepage": "https://github.com/Visswateza/New#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
